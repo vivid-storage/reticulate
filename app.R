@@ -1,5 +1,5 @@
 library(magrittr)
-library(reticulate) # Used to call Tensorflow Python script
+library(reticulate)
 library(shiny)
 library(shinycssloaders)
 
